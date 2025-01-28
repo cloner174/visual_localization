@@ -1,0 +1,2 @@
+Top-Left Coordinate (3D): {'Latitude': 35.59085608052126, 'Longitude': 51.20317416741703, 'Altitude': 1202.6528472750051}
+Bottom-Right Coordinate (3D): {'Latitude': 35.58689635925327, 'Longitude': 51.20910470848917, 'Altitude': 1106.72}
