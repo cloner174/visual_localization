@@ -1,3 +1,7 @@
 [submodule "src/superglue_lib"]
 	path = src/superglue_lib
 	url = https://github.com/magicleap/SuperGluePretrainedNetwork.git
+
+[submodule "scripts/superglue_lib"]
+    path = scripts/superglue_lib
+    url = https://github.com/magicleap/SuperGluePretrainedNetwork.git
